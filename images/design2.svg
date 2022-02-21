@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_43" fill="#fff" stroke="#707070" d="M0 0H40V40H0z" transform="translate(221 2487)"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:none;stroke:#344154;stroke-linecap:round;stroke-linejoin:round;stroke-width:.7px}
+        </style>
+    </defs>
+    <g id="Mask_Group_18" clip-path="url(#clip-path)" transform="translate(-221 -2487)">
+        <g id="Group_41" transform="translate(500.695 928.733)">
+            <path id="Rectangle_41" d="M0 0H23.838V32.759H0z" class="cls-3" transform="translate(-276.997 1560.451)"/>
+            <path id="Path_113" d="M-246.986 1569.5h2.873v32.759h-23.838v-2.873" class="cls-3" transform="translate(-6.173 -6.173)"/>
+            <path id="Rectangle_42" d="M0 0H8.205V8.205H0z" class="cls-3" transform="translate(-274.124 1563.324)"/>
+            <path id="Path_114" fill="#ffc524" d="M-261.95 1579.891v-4.391h4.394l-.242.136a10.551 10.551 0 0 0-4.124 4.2z" transform="translate(-10.267 -10.267)"/>
+            <path id="Line_43" d="M0 0L7.677 0" class="cls-3" transform="translate(-263.33 1563.324)"/>
+            <path id="Line_44" d="M0 0L7.677 0" class="cls-3" transform="translate(-263.33 1566.334)"/>
+            <path id="Line_45" d="M6.552 0L0 0" class="cls-3" transform="translate(-262.205 1590.183)"/>
+            <path id="Path_115" d="M-228.809 1645.479v-1.654h5.525v1.654" class="cls-3" transform="translate(-32.882 -56.892)"/>
+            <path id="Path_116" d="M-175.682 1608.147a1.427 1.427 0 0 0 1.421-1.429l-.034-23.819-2.855.011.034 23.811a1.428 1.428 0 0 0 1.434 1.426z" class="cls-3" transform="translate(-68.133 -15.318)"/>
+            <path id="Path_117" d="M-177.149 1570.255v-4.455a1.427 1.427 0 0 1 1.427-1.427 1.427 1.427 0 0 1 1.427 1.427v4.458" class="cls-3" transform="translate(-68.133 -2.674)"/>
+            <path id="Line_46" d="M0 0L0 3.077" class="cls-3" transform="translate(-243.836 1592.835)"/>
+            <path id="Line_47" d="M13.606 0L0 0" class="cls-3" transform="translate(-271.881 1580.629)"/>
+            <path id="Line_48" d="M9.149 0L0 0" class="cls-3" transform="translate(-269.652 1577.467)"/>
+        </g>
+    </g>
+</svg>
